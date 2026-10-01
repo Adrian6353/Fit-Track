@@ -1,4 +1,4 @@
-# fittrack
+# Fit-Track
 
 A new Flutter project.
 
